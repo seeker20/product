@@ -1,4 +1,4 @@
-module github.com/hexya-addons/product
+module github.com/seeker20/product
 
 go 1.13
 
